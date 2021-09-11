@@ -1,4 +1,4 @@
-# NFT Wiki
+# Crypto Primer
 
 ## Table of contents
 - [Definitions](#definitions)
@@ -25,10 +25,10 @@ In the context of crypto, a token is a piece of data stored in a pubic ledger ca
 There are several categories of tokens: 
 | Category | Description | Examples
 | --- | --- | ---|
-| DeFi tokens | Tokens designed to reproduce traditional financial functions but with the ability of enabling direct transactions between two or more people | [MKR](https://makerdao.com/en/), [COMP](https://compound.finance/), [Aave](https://aave.com/)
-| Governance tokens | 
-- Non-fungible tokens
-- Security tokens.
+| DeFi tokens | Tokens designed to reproduce traditional financial functions but with the ability of enabling direct transactions between two or more people | [DAI](https://makerdao.com/en/), [https://www.terra.money/](https://www.terra.money/),[Uniswap](https://uniswap.org/), [Aave](https://aave.com/)
+| Governance tokens | A special kind of DeFi token that function as "votes" in the future of a protocol or app. The more tokens, the more votes you get. Governance tokens are essential in the development of decentralized autonomous organizations (DAO) that –as their name says– do not have a centralized leadership. | [COMP](https://compound.finance/) | [MKR](https://makerdao.com/en/)
+| Non-fungible tokens | Tokens that represent ownership right to a unique digital o real-life asset. | [Axie Infinity](https://axieinfinity.com/), [Loot](https://www.lootproject.com/), [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+| Security tokens | Tokens aimed to be the crypto equivalent to traditional securities like stocks or bonds. Its main purpose is to remove brokers from trading securities. Represent ownership on a company and entitle the holders to their share of the profits. | [ArCoin](https://arcoin.arcalabs.com/)
 
 Read more: [Coinbase](https://www.coinbase.com/learn/crypto-basics/what-is-a-token) | [Investopedia](https://www.investopedia.com/terms/c/crypto-token.asp) |
 
@@ -47,3 +47,11 @@ Despite their advantages and increasing popularity, DeFi Tokens are a high-risk 
 Read more: [Coindesk](https://www.coindesk.com/tech/2020/09/18/what-is-defi/) | [101 Blockchains](https://101blockchains.com/defi-tokens/) |
 
 See also: [CoinmarketCap: DeFi Tokens by market capitalization](https://coinmarketcap.com/view/defi/)
+
+### Governance Tokens
+
+Tokens that give token holders votes in decisions regarding the future of a protocol or app. Governance tokens function just as a traditional board, where shareholders propose motions and then they are voted. Similarly, the more the tokens, the more votes a holder has. The organizations that allow this kind of democratization are called Decentralized Autonomous Organizations (DAO).
+
+The relationship among token holders, as well as with the organization is governed by smart contracts on Ethereum's blockchain.
+
+Read more: [CoinMarketCap](https://coinmarketcap.com/alexandria/glossary/governance-token) | [Investopedia](https://www.investopedia.com/tech/governance-why-crypto-investors-should-care/)
