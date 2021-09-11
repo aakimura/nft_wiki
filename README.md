@@ -25,7 +25,7 @@ In the context of crypto, a token is a piece of data stored in a pubic ledger ca
 There are several categories of tokens: 
 | Category | Description | Examples
 | --- | --- | ---|
-| DeFi tokens | Tokens designed to reproduce traditional financial functions but with the ability of enabling direct transactions between two or more people | [DAI](https://makerdao.com/en/), [https://www.terra.money/](https://www.terra.money/),[Uniswap](https://uniswap.org/), [Aave](https://aave.com/)
+| DeFi tokens | Tokens designed to reproduce traditional financial functions but with the ability of enabling direct transactions between two or more people | [DAI](https://makerdao.com/en/), [LUNA](https://www.terra.money/),[Uniswap](https://uniswap.org/), [Aave](https://aave.com/)
 | Governance tokens | A special kind of DeFi token that function as "votes" in the future of a protocol or app. The more tokens, the more votes you get. Governance tokens are essential in the development of decentralized autonomous organizations (DAO) that –as their name says– do not have a centralized leadership. | [COMP](https://compound.finance/), [MKR](https://makerdao.com/en/)
 | Non-fungible tokens | Tokens that represent ownership right to a unique digital o real-life asset. | [Axie Infinity](https://axieinfinity.com/), [Loot](https://www.lootproject.com/), [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 | Security tokens | Tokens aimed to be the crypto equivalent to traditional securities like stocks or bonds. Its main purpose is to remove brokers from trading securities. Represent ownership on a company and entitle the holders to their share of the profits. | [ArCoin](https://arcoin.arcalabs.com/)
