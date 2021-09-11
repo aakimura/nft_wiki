@@ -44,6 +44,6 @@ Read more: [Investopedia](https://www.investopedia.com/non-fungible-tokens-nft-5
 
 Despite their advantages and increasing popularity, DeFi Tokens are a high-risk investment due to their volatility.
 
-Read more: [Coindesk]([Coindesk](https://www.coindesk.com/tech/2020/09/18/what-is-defi/)) | [101 Blockchains](https://101blockchains.com/defi-tokens/) |
+Read more: [Coindesk](https://www.coindesk.com/tech/2020/09/18/what-is-defi/) | [101 Blockchains](https://101blockchains.com/defi-tokens/) |
 
 See also: [CoinmarketCap: DeFi Tokens by market capitalization](https://coinmarketcap.com/view/defi/)
